@@ -45,6 +45,8 @@
             <div class="col-sm-6">
               <h2>2019</h2>
                 <ul class="list-group list-group-flush">
+                  <li class="list-group-item"><b>Idri Mouhammed </b>(H-rise 1.0) &nbsp; <button type="button" class="btn btn-primary float-sm-right">Organizer</button></li> 
+                  <li class="list-group-item"><b>Hamza Boulaala</b>(H-rise 1.0) &nbsp; <button type="button" class="btn btn-primary float-sm-right">Organizer</button></li> 
                     <li class="list-group-item"><b>Ihab Bendidi </b>(Intro to Data Science) &nbsp; <button type="button" class="btn btn-primary float-sm-right">Trainer</button></li> 
                     <li class="list-group-item"><b>Nacer Sebti</b> (Intro to Data Science) &nbsp;  <button type="button" class="btn btn-primary float-sm-right">Trainer </button></li>
                   </ul>
